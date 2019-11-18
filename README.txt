@@ -4,5 +4,5 @@ O software gera um txt com todos os cálculos feitos para chegar ao fluxo lumino
 O conversor nada mais faz que gerar um csv com todas essas informações para gerar uma planilha no excell com os cálculos
 
 COMO USAR:
-Para usar basta abrir o executavel com o txt gerado pelo PRO-Elétrica no mesmo diretório que ele.
+Para usar basta abrir o executavel com o txt gerado pelo PRO-Elétrica no mesmo diretório que o executável.
 O txt tem que estar nomeado como "Dados.txt"
